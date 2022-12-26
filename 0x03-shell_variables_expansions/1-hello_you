@@ -1,0 +1,2 @@
+#!/biash
+echo hello $USER
